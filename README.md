@@ -1,26 +1,9 @@
 # UniGNN
 
-This repository contains the source code for the paper [_UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks_](https://arxiv.org/abs/2105.00956), accepted by IJCAI 2021.
-
+This repository contains the modification of the source code for the paper [_UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks_](https://arxiv.org/abs/2105.00956), accepted by IJCAI 2021.
+See COMP4434_Group29.ppt and COMP4434_Report for our report + presentation.
 
 ![](utils/figure.png)
-
-## Citation
-
-If you find this work useful in your research, please consider cite: 
-
-```bibtex
-@inproceedings{ijcai21-UniGNN,
-  title     = {UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks},
-  author    = {Huang, Jing and Yang, Jie},
-  booktitle = {Proceedings of the Thirtieth International Joint Conference on
-               Artificial Intelligence, {IJCAI-21}},
-  year      = {2021}
-}
-```
-
-
-
 
 ## Getting Started
 
